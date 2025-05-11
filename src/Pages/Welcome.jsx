@@ -14,7 +14,7 @@ const Welcome = () => {
             <img src={logo} alt="logo" className="w-24 sm:w-28 md:w-32 h-auto" />
             <div>
               <h1 className="text-white text-xl sm:text-2xl md:text-3xl font-bold tracking-tight mb-1 sm:mb-2 bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
-                ENVIRONMENTAL CONDITION MONITORING SYSTEM
+                IOT CORE DASHBOARD
               </h1>
               <p className="text-gray-400 text-sm sm:text-base md:text-lg">
                 Real-time Monitoring For A Sustainable Future
