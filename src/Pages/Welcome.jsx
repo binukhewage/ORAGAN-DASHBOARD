@@ -63,7 +63,7 @@ const Welcome = () => {
 
         {/* Footer */}
         <div className="p-3 sm:p-4 bg-gray-900 border-t border-gray-700 text-center text-gray-500 text-xs sm:text-sm">
-          © {new Date().getFullYear()} SLT Mobitel Environmental Monitoring System
+          © {new Date().getFullYear()} ORAGAN IOT CORE
         </div>
       </div>
     </div>
